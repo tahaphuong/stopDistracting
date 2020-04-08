@@ -1,0 +1,27 @@
+{
+  "name": "Stop distracting!",
+  "version": "1.0",
+  "manifest_version": 2,
+
+  "description": "I wanna remind you when you get distracted too much!",
+  "icons": {
+    "128": "icon.png"
+  },
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+    "matches": [
+      "*://www.facebook.com/*",
+      "*://kenh14.vn/*"
+    ],
+    "css":["main.css"],
+    "js": ["content.js"]
+    }
+  ],
+  "permissions": ["activeTab"],
+  "web_accessible_resources": ["content.js"]
+
+}
+
