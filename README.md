@@ -13,7 +13,8 @@ As you can guest, this is the beginning of 2 hours straight non-stop scrolling f
 #### So what would this Chrome Extension do??
 When I enter a *time-wasted website*, a box would appear and you have 2 choices: Keep relaxing or go to another web page.
 When you choose number 2, you will see a screen with options, to navigate you to other websites, which are more helpful to you.
-You can see a demo gif below:
+
+***You can see a demo gif below:***
 
 ![demo gif](https://github.com/tahaphuong/stopDistracting/blob/master/demo.gif)
 
