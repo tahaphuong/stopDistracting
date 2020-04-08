@@ -15,7 +15,7 @@ When I enter a *time-wasted website*, a box would appear and you have 2 choices:
 When you choose number 2, you will see a screen with options, to navigate you to other websites, which are more helpful to you.
 You can see a demo gif below:
 
-![demo gif]()
+![demo gif](https://github.com/tahaphuong/stopDistracting/blob/master/demo.gif)
 
 
 ## Setup
@@ -38,7 +38,7 @@ Go to **content.js**, edit the ```<a>``` tags of the ```const suggestions = ...`
 
 ### The bottom line
 Shoutout to **The Coding Train** !!
-[This video]("https://www.youtube.com/watch?v=9Tl3OmwrSaM") is a step-to-step tutorial for you to have a deeper understanding of **Chrome Extension**
+![This video](https://www.youtube.com/watch?v=9Tl3OmwrSaM) is a step-to-step tutorial for you to have a deeper understanding of **Chrome Extension**
 
 ## Thank you for visiting!!
 My name is Phuong Ta, a newbie coder coming from Vietnam, started coding in July 2019. I'm currently looking for the chance to improve my skills as well as get more experience working on real projects.
